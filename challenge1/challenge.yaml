@@ -4,12 +4,13 @@ fruit:
     tomato
   orange:
     - orange
+    - Mandarina
   yellow:
     - banana
   green:
     - grapes
     - watermelon
-  total: 6
+  total: 7
 
 veg:
   yellow:
@@ -20,4 +21,5 @@ veg:
     - broccoli
     - cabbage
     - lettuce
-  total: 5  
+    - aguacate
+  total: 6 

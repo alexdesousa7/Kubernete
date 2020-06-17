@@ -4,6 +4,10 @@
 
 # Add a total at the end
 
+# con este archivo iniciamos el curso de Kubernete, en teoria tenemos un listado y debemos de ordenarlos,
+# entiendo que no deben de quedar comentarios en el archivo que se va a usar por alguna razon o eso creo
+# en el archivo "challenge.yaml" es donde se van a hacer los cambios sin comentarios
+
 items:
   - banana
   - orange
