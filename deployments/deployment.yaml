@@ -1,9 +1,9 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name:  mydeployment
+  name:  myprimerdespliegue
   labels:
-    name:  mydeployment
+    name:  myprimerdespliegue
 spec:
   replicas: 5
   selector:
