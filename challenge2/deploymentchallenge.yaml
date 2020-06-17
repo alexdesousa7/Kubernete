@@ -1,9 +1,9 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name:  challenge
+  name:  miprimerospasos
   labels:
-    name:  challenge
+    name:  miprimerospasos
 spec:
   replicas: 3
   selector:
