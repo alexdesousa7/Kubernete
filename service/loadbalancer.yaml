@@ -1,10 +1,10 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name:  awslb
+  name:  azurelb
 spec:
   selector:
-    name: myPod
+    name: myPod01
   type:  LoadBalancer
   ports:
   - port:  8080
