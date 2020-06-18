@@ -28,7 +28,7 @@ spec:
             cpu: "500m"
         ports:
           - containerPort: 80
-      - name: server
+      - name: serverprime
         image: ubuntu
         resources:
           limits:
