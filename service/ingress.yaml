@@ -11,5 +11,5 @@ spec:
       paths:
       - path: /
         backend:
-          serviceName: websrvc
+          serviceName: websrvc01
           servicePort: 8080
